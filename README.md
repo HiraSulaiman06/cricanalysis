@@ -1,13 +1,10 @@
 # 🏏 Cricket Analysis Dashboard
 
-An interactive Cricket Analysis Dashboard built using **Python**, **Streamlit**, and **Plotly**.
+An interactive Cricket Analysis Dashboard built using **Python**, **Streamlit**, and **Plotly**
 
 The dashboard allows users to explore player performance, compare players, analyze country-wise statistics, and interact with cricket data through beautiful visualizations.
 
 ---
-
-## 📊 Dashboard Preview
-
 ![Dashboard](dashboard.png)
 
 ---
